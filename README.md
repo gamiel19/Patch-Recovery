@@ -1,5 +1,5 @@
 # Notice
-I will provide pre-built recoveries for the A34 , but if you want me to prebuilt more devices , submit a issue with the tag "Pre-built Device Request"
+I will provide pre-built recoveries for the A34 , but if you want me to prebuilt more devices , submit a issue with the tag "Pre-built Device Request", and check on releases to see if your model already has pre-built recoveries if you would prefer to use that.
 
 # Similar script
 You can also refer this [script](https://github.com/milktoast56/explosive-diarrhea)
