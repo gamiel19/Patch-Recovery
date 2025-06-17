@@ -1,3 +1,6 @@
+# Notice
+I will provide pre-built recoveries for the A34 , but if you want me to prebuilt more devices , submit a issue with the tag "Pre-built Device Request"
+
 # Similar script
 You can also refer this [script](https://github.com/engineer4t/fastboot-patcher)
 
